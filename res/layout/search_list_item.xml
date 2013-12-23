@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:minHeight="40dip" >
+
+    <TextView
+        android:id="@+id/text_keywords"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="5dip"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="dfsfsdf"
+        android:textSize="16sp" />
+
+</LinearLayout>

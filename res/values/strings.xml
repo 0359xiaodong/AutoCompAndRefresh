@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoCompAndRefresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint">请输入关键字!</string>
+    <string name="search">搜索</string>
+    <string name="add_keywords">已将搜索关键字%1$s加入数据库了</string>
+
+</resources>
